@@ -12,7 +12,9 @@
 #include "pusb.h"
 #endif
 
+#include <algorithm>
 #include <array>
+#include <cstdint>
 #include <vector>
 
 struct steel_rgb_entry
