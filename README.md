@@ -120,7 +120,7 @@ information by opening an issue.
 1) Mystic support is not working. Has 12 lights - Steel series interface? 
 2) Currently only query possible until feedback is given on issue #43
 3) Audio Volume and Navi-Key not working
-4) Query only. Values of input, pip_input, pbp_input and the 16:10 and 1:1 screen_size options are not verified
+4) Values of input, pip_input, pbp_input and the 16:10 and 1:1 screen_size options are not verified
 
 ### 2.2. Service menu
 
