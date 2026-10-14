@@ -152,7 +152,7 @@ static std::vector<identity_t> known_models =
 	{ MAG274QRX,         "00|", "V43", "MAG274QRX", LT_MYSTIC_OPTIX, true },
 	{ MD272QP,           "00\x85", "V51", "MD272QP", LT_NONE },                    // MAG274QRF-QD FW.011
 	// TODO: verify input, pip_input and pbp_input values with HDMI/DP sources connected
-	{ MAG275CQRXF,       "00\x8f", "V61", "MAG275CQRXF", LT_NONE, true },          // MAG275CQRXF FW.014
+	{ MAG275CQRXF,       "00\x8f", "V61", "MAG275CQRXF", LT_NONE },                // MAG275CQRXF FW.014
 };
 
 enum encoding_t
