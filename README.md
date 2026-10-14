@@ -98,6 +98,7 @@ information by opening an issue.
 | MAG274QRF-QD  | FW.015   | Yes           | "V48" | "00e"| AUO_M270DAN08_2| |
 | MAG274QRF-QD  | FW.020   | Yes           | "V56" | "00e"| AUO_M270DAN08_2|[Manual](https://download.msi.com/archive/mnu_exe/monitor/Optix_MAG274QRF_MAG274QRF-QDv1.0_English.pdf)|
 | MAG274QRX     | ?        | Partial 2)    | "V53" | "00\|"| ?              |[Manual](https://download.msi.com/archive/mnu_exe/monitor/Optix_MAG274QRXv1.0_English.pdf)|
+| MAG275CQRXF   | FW.014   | Partial 4)    | "V61" | "00\\x8f" | ?         | |
 | MAG270CR      | ?        | ?             | ?     |   ?  | ?              | |
 | MAG271C       | ?        | ?             | "V18" | "002"| ?              |[Manual](https://download.msi.com/archive/mnu_exe/monitor/MAG241C_CP_CR_CV_271C_CP_CR_CVv1.0_English.pdf)|
 | MAG271CP      | ?        | ?             | "V18" | "002"| ?              |[Manual](https://download.msi.com/archive/mnu_exe/monitor/MAG241C_CP_CR_CV_271C_CP_CR_CVv1.0_English.pdf)|
@@ -119,6 +120,7 @@ information by opening an issue.
 1) Mystic support is not working. Has 12 lights - Steel series interface? 
 2) Currently only query possible until feedback is given on issue #43
 3) Audio Volume and Navi-Key not working
+4) Query only. Values of input, pip_input, pbp_input and the 16:10 and 1:1 screen_size options are not verified
 
 ### 2.2. Service menu
 
